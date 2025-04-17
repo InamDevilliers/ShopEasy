@@ -13,8 +13,6 @@ git clone https://github.com/InamDevilliers/ShopEasy
 Alternatively, you can download the project ZIP file and extract it.
 
 2. Navigate into the Project Directory
-Use the terminal or command prompt to navigate into the project directory:
-cd shopping-website
 
 # Install Dependencies for the Frontend
 1. Install the necessary packages for the React app by running:
